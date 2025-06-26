@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import Input from "@/components/atoms/Input";
+import ApperIcon from "@/components/ApperIcon";
 import Button from "@/components/atoms/Button";
-import AppIcon from "@/components/atoms/AppIcon";
+import Input from "@/components/atoms/Input";
 const SearchBar = ({ onSearch, placeholder = "Search by location, city, or property type...", className = '' }) => {
   const [query, setQuery] = useState('');
 
@@ -32,16 +32,16 @@ const SearchBar = ({ onSearch, placeholder = "Search by location, city, or prope
           iconPosition="left"
           className="pr-10"
         />
-        {query && (
+{query && (
           <button
             type="button"
-onClick={handleClear}
-          className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600"
-        >
-          <AppIcon name="X" size={16} />
-        </button>
-      )}
-    </div>
+            onClick={handleClear}
+            className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600"
+          >
+            <ApperIcon name="X" size={16} />
+          </button>
+        )}
+      </div>
       <Button type="submit" variant="primary" icon="Search">
         Search
       </Button>
