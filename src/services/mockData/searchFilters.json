@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "location": "Seattle, WA",
+    "priceMin": 0,
+    "priceMax": 1000000,
+    "bedroomsMin": 0,
+    "bathroomsMin": 0,
+    "propertyType": ["House", "Condo", "Townhouse"]
+  }
+]

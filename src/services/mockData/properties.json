@@ -1,0 +1,147 @@
+[
+  {
+    "Id": 1,
+    "title": "Modern Downtown Loft",
+    "price": 750000,
+    "address": {
+      "street": "123 Main Street",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98101",
+      "full": "123 Main Street, Seattle, WA 98101"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1560184897-ae75f418493e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1571055107559-3e67626fa8be?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning modern loft in the heart of downtown Seattle. Features floor-to-ceiling windows, exposed brick walls, and premium finishes throughout. Walking distance to Pike Place Market, restaurants, and public transportation.",
+    "amenities": ["Hardwood Floors", "Stainless Steel Appliances", "In-Unit Laundry", "Balcony", "Garage Parking", "Gym Access"],
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    "listingDate": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "title": "Charming Suburban Family Home",
+    "price": 525000,
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Bellevue",
+      "state": "WA",
+      "zipCode": "98004",
+      "full": "456 Oak Avenue, Bellevue, WA 98004"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2400,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502005229762-cf1b2da2db52?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautiful family home in quiet residential neighborhood. Spacious living areas, updated kitchen, and large backyard perfect for entertaining. Excellent schools nearby and close to parks and shopping.",
+    "amenities": ["Updated Kitchen", "Fireplace", "Large Backyard", "Two-Car Garage", "Walk-in Closets", "Central Air"],
+    "coordinates": {
+      "lat": 47.6101,
+      "lng": -122.2015
+    },
+    "listingDate": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "title": "Luxury Waterfront Penthouse",
+    "price": 1250000,
+    "address": {
+      "street": "789 Harbor View Drive",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98121",
+      "full": "789 Harbor View Drive, Seattle, WA 98121"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?w=800&h=600&fit=crop"
+    ],
+    "description": "Spectacular penthouse with panoramic water and city views. Premium finishes, chef's kitchen, and private terrace. Building amenities include concierge, pool, and fitness center.",
+    "amenities": ["Water Views", "Private Terrace", "Concierge", "Pool Access", "Fitness Center", "Wine Storage"],
+    "coordinates": {
+      "lat": 47.6205,
+      "lng": -122.3493
+    },
+    "listingDate": "2024-01-25T00:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Cozy Craftsman Cottage",
+    "price": 425000,
+    "address": {
+      "street": "321 Pine Street",
+      "city": "Redmond",
+      "state": "WA",
+      "zipCode": "98052",
+      "full": "321 Pine Street, Redmond, WA 98052"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1800,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&h=600&fit=crop"
+    ],
+    "description": "Charming craftsman-style home with original character details and modern updates. Beautiful hardwood floors, built-in shelving, and peaceful garden setting.",
+    "amenities": ["Original Hardwood", "Built-in Storage", "Garden Setting", "Updated Electrical", "Covered Porch", "Detached Garage"],
+    "coordinates": {
+      "lat": 47.6740,
+      "lng": -122.1215
+    },
+    "listingDate": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "Id": 5,
+    "title": "Contemporary Townhouse",
+    "price": 675000,
+    "address": {
+      "street": "654 Cedar Lane",
+      "city": "Kirkland",
+      "state": "WA",
+      "zipCode": "98033",
+      "full": "654 Cedar Lane, Kirkland, WA 98033"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1950,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+    ],
+    "description": "Modern three-story townhouse in desirable Kirkland location. Open floor plan, rooftop deck, and attached garage. Close to Lake Washington and tech corridor.",
+    "amenities": ["Rooftop Deck", "Open Floor Plan", "Attached Garage", "Modern Kitchen", "Master Suite", "Lake Access"],
+    "coordinates": {
+      "lat": 47.6815,
+      "lng": -122.2087
+    },
+    "listingDate": "2024-02-05T00:00:00.000Z"
+  }
+]
